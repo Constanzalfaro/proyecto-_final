@@ -855,15 +855,15 @@ footer {
 
 
 .card {
-    padding: 0 !important;
+    padding: 0 ;
     width: 100%;
     height: 50%;
     bottom: -50%;
-    padding: 1em !important;
+    padding: 1em ;
     box-sizing: border-box;
 
-    border-top-right-radius: 0 !important;
-    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 ;
+    border-top-left-radius: 0 ;
 
 }
 
@@ -984,7 +984,7 @@ contacto*/
 
 
 .fondo-contacto {
-    background-image: url(../img/FOTO108.jpg);
+    background-image: url(../img/foto108.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -1148,7 +1148,7 @@ textarea {
 /*pagine cine */
 
 .fondo-cine {
-    background-image: url(../img/FOTO92.jpg);
+    background-image: url(../img/foto92.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -1206,13 +1206,6 @@ textarea {
 .child.blank {
     padding: 0.1em;
 }
-
-
-
-
-
-
-
 
 
 
@@ -1278,7 +1271,7 @@ textarea {
 /*pagina NZ - un realto conrto de una experiencia */
 
 .fondo-nz {
-    background-image: url(../img/FOTO85.jpg);
+    background-image: url(../img/foto85.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
